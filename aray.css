@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+    display: grid ;
+    place-items: center;
+    background-image: 1.webp;
+    
+}
+.middle{
+    border-radius:40px;
+    height: 2pc;
+}
